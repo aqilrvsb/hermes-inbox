@@ -1,5 +1,10 @@
 {
   "instructions": [
-    {"id":"welcome-1","title":"Welcome","instruction":"Claude (Opus 4.8) pushes finalized tasks here. You read, edit, then Proceed (Hermes runs it instantly) or Reject.","model":""}
+    {
+      "id": "bridge-test-1",
+      "title": "Bridge test \u2014 read-only health check",
+      "instruction": "Bridge test of the Instruction Claude loop. READ-ONLY \u2014 do NOT create, edit, pause, spend, or launch anything.\n1) Confirm you are the marketer agent (one line).\n2) Via the zernio MCP, resolve the live MYR ad account and list its name, id, currency.\n3) Confirm the two pixels: PeningBot 986352420917190, PeningLab 1013990424497184.\n4) Reply with a short summary, and WhatsApp the owner one line via whacenter: \"Instruction Claude bridge live\".\n5) Append your report to _shared/reports/bridge-test.md.",
+      "model": ""
+    }
   ]
 }
