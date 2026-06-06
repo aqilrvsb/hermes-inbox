@@ -1,0 +1,5 @@
+{
+  "instructions": [
+    {"id":"welcome-1","title":"Welcome","instruction":"Claude (Opus 4.8) pushes finalized tasks here. You read, edit, then Proceed (Hermes runs it instantly) or Reject.","model":""}
+  ]
+}
