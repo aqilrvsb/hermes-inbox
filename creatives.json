@@ -1,5 +1,101 @@
 {
   "updated": "2026-06-06",
-  "note": "Agents publish generated assets here. Items: {brand,slot,type,url,headline,primary}.",
-  "items": []
+  "items": [
+    {
+      "brand": "peningbot",
+      "slot": "PB-P",
+      "type": "image",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/image/d164bf95-1dc2-4b54-8b52-5503e48988c8.png",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-V1",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/3305505c-d509-4a13-a484-0bf4986efa17.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-V2",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/7fe9f7fd-0e69-462e-b8cf-c8f8b21647ed.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-V3",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/bdaba477-b1a5-4166-95b6-fda8aa4b2fd7.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-V4",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/570ee476-1630-4649-a1fc-9d934be8374f.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-V5",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/b28ece30-4dc9-4e68-a395-d4278df29b23.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-P",
+      "type": "image",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/image/1e754a3f-057b-4760-bcb9-995755882ac9.png",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-V1",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/21d4a901-927e-4a3e-b89e-99d448e6d33a.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-V2",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/236cc0a7-5e8c-4704-af38-0bb0f8ea111f.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-V3",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/9610990d-f539-4249-ad70-2148c54b550b.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-V4",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/e8306c8e-7b0d-4aa4-8d55-915237611e3e.mp4",
+      "headline": "",
+      "primary": ""
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-V5",
+      "type": "video",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/20c8c15c-8215-4404-8137-6e9c1b02a726.mp4",
+      "headline": "",
+      "primary": ""
+    }
+  ]
 }
