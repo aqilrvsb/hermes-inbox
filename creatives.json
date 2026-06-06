@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06",
+  "updated": "2026-06-07",
   "items": [
     {
       "brand": "peningbot",
@@ -96,6 +96,22 @@
       "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/ugc/20c8c15c-8215-4404-8137-6e9c1b02a726.mp4",
       "headline": "",
       "primary": ""
+    },
+    {
+      "brand": "peningbot",
+      "slot": "PB-NEW-03",
+      "type": "image",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/image/75441a2e-e405-480d-aac5-2164245c160a.png",
+      "headline": "Auto-Reply WhatsApp BM, 5 Minit Setup",
+      "primary": "5 minit. Scan QR. Paste prompt. Siap.\n\nTanpa coding. Tanpa kad kredit. 7 hari refund penuh kalau tak sesuai.\n\nBukan set up susah. Bukan perlu belajar. Scan, paste, done."
+    },
+    {
+      "brand": "peninglab",
+      "slot": "PL-NEW-01",
+      "type": "image",
+      "url": "https://peninglab-content.s3.us-east-005.backblazeb2.com/users/f0fd6781-ed5f-4aa8-a5b9-eec943229092/image/d73910f6-1dfa-4f64-a851-ee3850528f70.png",
+      "headline": "Pro 250 Video, RM 0.40 Sebijik",
+      "primary": "Stop bayar RM 300 untuk 1 video. 😤\n\nPeningLab Pro RM 100 sebulan = 250 video. RM 0.40 sebijik.\n\nVersus UGC creator: 1 minggu siap, RM 300. Versus PeningLab: 3 minit siap, RM 0.40.\n\nSubscribe Pro di peninglab.com."
     }
   ]
 }
